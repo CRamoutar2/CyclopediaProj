@@ -15,7 +15,7 @@ Instructions on How to Run:
 	command: pip install django
 6) Clone the repo into the project directory and CD into "Cyclopedia"
 7) Open up the project using any code editor you'd like, I used Visual Studio 2022
-8) In the terminal, while in '/CapstoneProject/Cyclopedia' run the django project:
+8) In the terminal, while in '/CapstoneProject/CyclopediaProj' run the django project:
 	command: python .\manage.py runserver
 	8b) Current urls are:
 		''
